@@ -12,7 +12,7 @@ npm start
 
 ## UI Screenshots
 
-![Screenshot](https://github.com/Padmini-bulnda/Voice-assistant/blob/master/src/images/U1.png)
+
 ![Screenshot](https://github.com/Padmini-bulnda/Voice-assistant/blob/master/src/images/U3.png)
 
 ![Screenshot](https://github.com/Padmini-bulnda/Voice-assistant/blob/master/src/images/U4.png)
