@@ -15,7 +15,7 @@ npm start
 
 ![Screenshot](https://github.com/Padmini-bulnda/Voice-assistant/blob/master/src/images/U3.png)
 
-![Screenshot](https://github.com/Padmini-bulnda/Voice-assistant/blob/master/src/images/U4.png)
+![Screenshot](https://github.com/Padmini-bulnda/Voice-assistant/blob/master/src/images/Screenshot%20(71).png)
 
 ## Data Flow Diagram
 
