@@ -8,7 +8,7 @@ npm install
 npm start
 ```
 
-![Logo](https://github.com/Padmini-bulnda/Voice-assistant/tree/master/src/images/logo.png)
+![Logo](https://github.com/Padmini-bulnda/Voice-assistant/blob/master/src/images/logo.png)
 
 ## UI Screenshots
 
